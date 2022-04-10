@@ -1,0 +1,9 @@
+<body>
+<h2>Do-It-Yourself Web Authoring - a beginner's HTML tutorial</h2>
+<!-- How to insert an image -->
+<img
+ alt="Sample image"
+ title="title=&#34;Text to show <p> when mouse is hovered over this image&#34;"
+ src="picture-of-something.jpg"
+ style="width:100%;">
+</body>

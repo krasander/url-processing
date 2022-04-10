@@ -1,0 +1,10 @@
+controller:
+  request-mapping: /api/url
+  process-path: /process
+  result-path: /result
+
+spring:
+  datasource:
+    url: jdbc:h2:file:./db/demodb
+    username: sa
+    password: password

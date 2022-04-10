@@ -1,0 +1,18 @@
+<body>
+<p>This is a paragraph.</p>
+<h2>Do-It-Yourself Web Authoring - a beginner's HTML tutorial</h2>
+<p style="text-align:right">This is a paragraph with styling applied.</p>
+<!-- How to insert an image -->
+<img
+ alt="Sample image"
+ title="title=&#34;Text to show <p> when mouse is hovered over this image&#34;"
+ src="picture-of-something.jpg"
+ style="width:100%;">
+ <p>
+ This paragraph
+ contains a lot of lines
+ in the source code,
+ but the browser
+ ignores it.
+ </p>
+</body>
